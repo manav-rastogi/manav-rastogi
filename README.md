@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Dev ;)
 - ⚡ Fun fact: I am always curious!!
 - 📫 How to reach me: Star my personal repo and I'll reach out to you.
+
+### I am looking for post-grad jobs in advance, all leads are appreciated!

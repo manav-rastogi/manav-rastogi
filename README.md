@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on an impact-driven project
 - 😄 Pronouns: Dev ;)
 - ⚡ Fun fact: I am always curious!!
-- 📫 How to reach me: Follow my personal repo and I'll reach out to you.
+- 📫 How to reach me: Star my personal repo and I'll reach out to you.

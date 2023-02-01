@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Manav Rastogi.
+### Hi there my fellow Devs👋. My name is Manav Rastogi.
 
 <!--
 **manav-rastogi/manav-rastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I am currently exploring impact-driven SWE projects and cross-platform mobile development projects.
-- 🌱 I’m currently studying Bachelors of Computer Science
+- 🌱 I’m currently studying Bachelors of Computer Science (3rd year)
 - 👯 I’m looking to collaborate on an impact-driven project
 - 😄 Pronouns: Dev ;)
 - ⚡ Fun fact: I am always curious!!
